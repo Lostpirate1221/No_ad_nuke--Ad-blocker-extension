@@ -1,0 +1,25 @@
+
+---
+
+### 📦 Install for Testing
+
+1. Clone/download this repository.
+2. Open Chrome and navigate to: `chrome://extensions/`
+3. Enable **Developer Mode**.
+4. Click **Load Unpacked** and select the `No_ad_nuke/` folder.
+
+---
+
+### 🚀 Publish to Chrome Web Store
+
+1. Create a `.zip` of the folder (exclude `.git/`)
+2. Upload to [Chrome Developer Dashboard](https://chrome.google.com/webstore/devconsole)
+3. Pay one-time $5 developer fee
+4. Submit for review and publish
+
+---
+
+### 🔧 Extend It
+
+Add more rules in `rules.json` to block more domains, scripts, or trackers.
+
